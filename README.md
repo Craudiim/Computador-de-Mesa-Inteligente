@@ -1,6 +1,6 @@
 #  Computador de Mesa Inteligente
 
-Estarei disponibilizando neste documento um descritivo com lista de materiais, arquivos GERBER para impessão da pcb e o firmware para utilização deste projeto.
+Estarei disponibilizando neste documento um descritivo com lista de materiais, arquivos GERBER para impressão da pcb e o firmware para utilização deste projeto.
 
 Olá, esta é a minha primeira plublicação, iniciei este projeto em junho de 2022 e o projeto segue em atualização.
 
