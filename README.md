@@ -6,7 +6,7 @@ Olá, esta é a minha primeira publicação, iniciei este projeto em junho de 20
 
 Claudio Paiva.
 
-O Computador de Mesa Inteligente, tem como proposta integrar o seu computador DESKTOP aos assistentes inteligentes, Alexa, Google Assistant, Bixby e o Siri.
+O Computador de Mesa Inteligente, tem como proposta integrar o seu computador DESKTOP aos assistentes inteligentes: Google Assistant, Alexa, Bixby e o Siri.
 
 Este projeto em sua primeira versão é bem simplificado, com apenas tres funções:
 
