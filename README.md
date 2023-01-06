@@ -6,7 +6,10 @@ Olá, esta é a minha primeira plublicação, iniciei este projeto em agosto de 
 Claudio Paiva
 o Computador de Mesa Inteligente, tem como proposta integrar o seu computador DESKTOP aos assistentes inteligentes, Alexa, Google Assistant, Bixby e o Siri.
 Este projeto em sua primeira versão é bem simplificado, com apenas tres funções:
-- Ligar o computador
-- Desligar o computador
-- Resetar o computador
+- Ligar o computador.
+- Desligar o computador.
+- Resetar o computador.
 Tudo isso preservando as chaves power e reset do gabinete.
+O projeto foi baseado no microcontrolador esp8266, modelo esp01.
+Para proteção do circuito, foi utilizado um componente de acoplamento optico.
+A fonte de alimentação é derivada da fonte ATX, terminais 3.3v e GND.
