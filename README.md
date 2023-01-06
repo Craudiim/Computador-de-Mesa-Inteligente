@@ -13,3 +13,6 @@ Tudo isso preservando as chaves power e reset do gabinete.
 O projeto foi baseado no microcontrolador esp8266, modelo esp01.
 Para proteção do circuito, foi utilizado um componente de acoplamento optico.
 A fonte de alimentação é derivada da fonte ATX, terminais 3.3v e GND.
+
+Leia-me
+No editor, abra o documento via: Menu superior - Arquivo - Abrir - EasyEDA... , e selecione o arquivo json, abra-o no editor, você pode salvá-lo em um projeto.
