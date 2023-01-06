@@ -1,6 +1,12 @@
 #  Computador de Mesa Inteligente
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Estarei disponibilizando neste documento um descritivo com lista de materiais, arquivos GERBER para impessão da pcb e o firmware para utilização deste projeto.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Olá, esta é a minha primeira plublicação, iniciei este projeto em agosto de 2022 e o projeto segue em atualização.
 Claudio Paiva
+o Computador de Mesa Inteligente, tem como proposta integrar o seu computador DESKTOP aos assistentes inteligentes, Alexa, Google Assistant, Bixby e o Siri.
+Este projeto em sua primeira versão é bem simplificado, com apenas tres funções:
+- Ligar o computador
+- Desligar o computador
+- Resetar o computador
+Tudo isso preservando as chaves power e reset do gabinete.
