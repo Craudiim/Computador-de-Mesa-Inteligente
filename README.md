@@ -25,3 +25,5 @@ A fonte de alimentação é derivada da fonte ATX, terminais 3.3v e GND.
 Leia-me.
 
 No editor, abra o documento via: Menu superior - Arquivo - Abrir - EasyEDA... , e selecione o arquivo json, abra-o no editor, você pode salvá-lo em um projeto.
+
+<img src="https://github.com/Craudiim/Computador-de-Mesa-Inteligente/raw/main/Imagens/3D%20Computador%20de%20Mesa%20Inteligente.png" alt="Arquitetura da pcb em visão 3D">
